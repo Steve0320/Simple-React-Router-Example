@@ -1,0 +1,6 @@
+.NavItem {
+    text-align: center;
+    flex: 1;
+    list-style-type: none;
+    padding: 10px;
+}

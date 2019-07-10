@@ -1,0 +1,9 @@
+.Nav {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    height: 40px;
+    width: 100%;
+    display: flex;
+}

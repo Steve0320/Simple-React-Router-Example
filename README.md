@@ -1,3 +1,5 @@
+This project is intended to serve as a simple, well-commented and well-organized example of a react app. It uses code from [this tutorial](https://tylermcginnis.com/react-router-animated-transitions/), with additional organization and comments. Hopefully, this project will be a useful educational resource for beginners.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
